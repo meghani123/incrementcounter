@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   background: rgb(6, 35, 88);
+
+}
+.counter-container{
+margin:25px 25px 25px 25px;
+padding:325px 75px 150px 150px;
+display: flex;
+height: 100vh;
+width: 100wh;
+display: inline-block;
+justify-content: center;
+place-items: center;
+align-items: center;
+font-family: sans-serif;
+font-size: 25px;
+color: #fff;
+font-weight: bold;
+
+
+}
+.counter{
+    color:darkgoldenrod;
+    font-size: 50px;
+}
+
